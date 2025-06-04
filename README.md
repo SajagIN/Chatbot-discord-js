@@ -3,7 +3,7 @@
 >also check out our public chatbot bot :- https://dsc.gg/chatari
 
 
-[![Run on Repl.it](https://repl.it/badge/github/CodeWhiteWeb/Chatbot-discord-js)](https://repl.it/github/CodeWhiteWeb/Chatbot-discord-js)
+[![Run on Repl.it](https://repl.it/badge/github/SajagIN/Chatbot-discord-js)](https://repl.it/github/SajagIN/Chatbot-discord-js)
 
 ## Install
 
@@ -44,10 +44,10 @@ npm start
 
 ## Author
 
-👤 **CodeWhiteWeb**
+👤 **SajagIN**
 
-* Website: https://CodeWhiteWeb.cf
-* Github: [@CodeWhiteWeb](https://github.com/CodeWhiteWeb)
+* Website: https://SajagIN.github.io
+* Github: [@SajagIN](https://github.com/SajagIN)
 
 ## Show your support
 
@@ -55,4 +55,4 @@ Give a ⭐️ if this project helped you!
 
 
 ***
-Created with ❤️ By CodeWhiteWeb
+Created with ❤️ By Sajag
