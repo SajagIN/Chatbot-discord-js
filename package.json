@@ -9,17 +9,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodeWhiteWeb/Chatbot-discord-js.git"
+    "url": "git+https://github.com/SajagIN/Chatbot-discord-js.git"
   },
   "keywords": [
     "chatbot"
   ],
-  "author": "CodeWhiteWeb",
+  "author": "SajagIN",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CodeWhiteWeb/Chatbot-discord-js/issues"
+    "url": "https://github.com/SajagIN/Chatbot-discord-js/issues"
   },
-  "homepage": "https://github.com/CodeWhiteWeb/Chatbot-discord-js#readme",
+  "homepage": "https://github.com/SajagIN/Chatbot-discord-js#readme",
   "dependencies": {
     "discord.js": "^12.5.3",
     "dotenv": "^16.0.0",
